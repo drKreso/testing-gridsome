@@ -1,0 +1,16 @@
+{
+    "projectName": "my-gridsome-site",
+    "version": "3.0",
+    "frontend": "javascript",
+    "javascript": {
+        "framework": "gridsome",
+        "config": {
+            "SourceDir": "src",
+            "DistributionDir": "dist",
+            "BuildCommand": "gridsome build"
+        }
+    },
+    "providers": [
+        "awscloudformation"
+    ]
+}

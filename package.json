@@ -1,0 +1,16 @@
+{
+  "name": "my-gridsome-site",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0",
+    "gridsome-source-directus": "^0.1.1"
+  },
+  "devDependencies": {
+    "gridsome-plugin-tailwindcss": "^2.2.38"
+  }
+}
